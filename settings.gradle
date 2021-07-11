@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "viewModel_dataBinding_liveData_practice"
